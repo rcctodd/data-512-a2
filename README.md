@@ -11,11 +11,11 @@ The goal of this project is to explore the causes and consequences of bias in da
 This project uses three sources of data:
 
 1) Data on English-language Wikipedia articles within the category "Category:Politicians by nationality" made available on figshare under the CC-BY-SA 4.0 license:
-- https://figshare.com/articles/Untitled_Item/5513449 Politicians by Country from the English-language Wikipedia. figshare. Dataset. 
+- https://figshare.com/articles/Untitled_Item/5513449 Politicians by Country from the English-language Wikipedia, figshare
 
 2) Population data from the United Nations International Indicators, made available under a CC BY 3.0 license. This data was provided in csv format as part of the class assignment, but is also available at the link below:
 
-- https://www.prb.org/international/indicator/population/table/ 2018 World Population Data Sheet.
+- https://www.prb.org/international/indicator/population/table/ 2018 World Population Data Sheet
 
 3) Output from the ORES ("Objective Revision Evaluation Service") machine learning package. In this data, each page is assigned one of six quality categories used in English Wikipedia content assessment, made available under a CC BY 3.0 license.
 
