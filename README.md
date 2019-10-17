@@ -49,7 +49,7 @@ In the analysis section of the workbook, the below summary tables are created (s
 * Geographic regions by coverage: Ranking of geographic regions (in descending order) in terms of the total count of politician articles from countries
 * Geographic regions by quality: Ranking of geographic regions (in descending order) in terms of the relative proportion of politician articles from countries in each region that are of GA and FA-quality FA-quality
 
-## License
+## Licensing
 
-- This assignment code is released under the MIT license in `LICENSE.txt`.
+- The assignment code and related files are released under the MIT license; see `LICENSE.txt`.
 - See above for data source licensing.
