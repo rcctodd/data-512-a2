@@ -5,7 +5,7 @@ Name:Richard Todd
 Date: 10/13/2019
 
 ## Goal
-The goal of this project is to explore the causes and consequences of bias in datascience through an examination of data on Wikipedia articles. 
+The goal of this project is to explore the causes and consequences of bias in datascience through an examination of data on Wikipedia articles. For reflections on the analysis and relating to this goal, see the notebook.
 
 ## Data sources used
 This project uses three sources of data:
@@ -27,10 +27,10 @@ Documentation for Python can be found here: https://docs.python.org/3.7/
 Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.readthedocs.io/en/latest/  
 
 The following Python packages were used and their documentation can be found at the accompanying links:
-pandas
-numpy
-json
-requests
+pandas: https://pandas.pydata.org/
+numpy: https://numpy.org
+json: https://docs.python.org/3/library/json.html
+requests: https://pypi.org/project/requests/
 
 ## Files Created
 This notebook creates 2 CSV files of data extracted and compiled as part of this analysis.
@@ -46,7 +46,8 @@ In the analysis section of the workbook, the below summary tables are created (s
 * Bottom 10 countries by coverage: 10 lowest-ranked countries by politician articles as a proportion of country population
 * Top 10 countries by relative quality: 10 highest-ranked countries by relative proportion of politician articles that are of GA and FA-quality
 * Bottom 10 countries by relative quality: 10 lowest-ranked countries by relative proportion of politician articles that are of GA and FA-quality
-* Geographic regions by coverage: Ranking of geographic regions (in descending order) in terms of the total count of politician articles from countries #### * Geographic regions by quality: Ranking of geographic regions (in descending order) in terms of the relative proportion of politician articles from countries in each region that are of GA and FA-quality FA-quality
+* Geographic regions by coverage: Ranking of geographic regions (in descending order) in terms of the total count of politician articles from countries
+* Geographic regions by quality: Ranking of geographic regions (in descending order) in terms of the relative proportion of politician articles from countries in each region that are of GA and FA-quality FA-quality
 
 ## License
 
